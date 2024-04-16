@@ -1,0 +1,81 @@
+#fejlec{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(10, 10, 65);
+    color: white;
+}
+
+body{
+    background: rgb(5, 88, 241) top center no-repeat fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    width: 80%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #050d7c;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20pt;
+    display: inline-block;
+}
+
+
+li a:hover {
+    background-color: #0edfee;
+}
+
+
+#sor {
+    width: 1000px;
+    float: left;
+    text-align: justify;
+    background-color: rgba(19, 30, 185, 0.8);
+    color: white;
+}
+
+
+#bal {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 450px;
+    float: left;
+}
+
+#jobb {
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 450px;
+    float: right;
+}
+
+#html{
+    width: 1000px;
+    margin: auto;
+}
+
+#kepek{
+    width: 450px;
+}
